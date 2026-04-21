@@ -1,13 +1,5 @@
 # Chomiczy przytułek
 
-&#8203;
-
-test
-
-&#8203;
-
-&#8203;
-
 Wzorujemy się na platformach:
 
 - [https://kroliki.net/pl/](https://kroliki.net/pl/)
