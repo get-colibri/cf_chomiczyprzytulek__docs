@@ -6,7 +6,7 @@ test
 
 &#8203;
 
-te
+&#8203;
 
 Wzorujemy się na platformach:
 
